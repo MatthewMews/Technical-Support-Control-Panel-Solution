@@ -1,0 +1,55 @@
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.exe.config
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.exe
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.pdb
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csprojResolveAssemblyReference.cache
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Main_Form.Main_Form.resources
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Properties.Resources.resources
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Website_Links.resources
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csproj.GenerateResource.Cache
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.exe
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.pdb
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Call_Recordings_Form.resources
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Interop.IWshRuntimeLibrary.dll
+F:\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csproj.ResolveComReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.exe
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.pdb
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csproj.ResolveComReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Call_Recordings_Form.resources
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Main_Form.Main_Form.resources
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Website_Links.resources
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.exe
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.pdb
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csprojResolveAssemblyReference.cache
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.exe.config
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.exe
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.pdb
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csproj.ResolveComReference.cache
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Call_Recordings_Form.resources
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Main_Form.Main_Form.resources
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Properties.Resources.resources
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Website_Links.resources
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csproj.GenerateResource.cache
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csproj.CoreCompileInputs.cache
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.exe
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.pdb
+C:\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.exe.config
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.exe
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\bin\Debug\Technical Support Control Panel.pdb
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csproj.ResolveComReference.cache
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Call_Recordings_Form.resources
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Main_Form.Main_Form.resources
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical_Support_Control_Panel.Website_Links.resources
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.exe
+C:\Users\Matthew\Desktop\Technical Support Control Panel Solution\Technical Support Control Panel\obj\Debug\Technical Support Control Panel.pdb
