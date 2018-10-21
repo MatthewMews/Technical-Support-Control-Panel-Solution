@@ -1,5 +1,7 @@
 # Technical Support Control Panel
 
+![alt text](https://i.imgur.com/jiCWHnD.png)
+
 
 ## Get Office Desktop Shortcuts
 
