@@ -13,7 +13,7 @@ The option will open a new GUI form and search a specific network / local direct
 
 ## Website Links
 
-This will open a new GUI form that displays links to some of the most commonly used websites that I used in my Technical Support role. I found this most useful when working on a new / colleagues computer, as it allowed me to quickly go the websites I needed without having to go find  out what the URL was (the URL were very long!).
+This will open a new GUI form that displays links to some of the most commonly used websites that I used in my Technical Support role. I found this most useful when working on a new / colleagues computer, as it allowed me to quickly go the websites I needed without having to go find out what the URL was (the URLs were very long for some of the websites!).
 
 ## Shortcuts
 
